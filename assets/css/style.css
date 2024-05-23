@@ -29,6 +29,10 @@ body.admin-bar .navbar {
 	margin-top: 32px
 }
 
+.dropdown:hover >.dropdown-menu {
+    display: block;
+}
+
 .caret {
 	margin-top: -3px
 }
